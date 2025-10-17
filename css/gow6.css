@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h3{
+    color: white;
+    position: relative;
+
+}
+.text{
+display: flex;
+
+
+border-radius: 25px;
+}
