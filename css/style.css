@@ -70,6 +70,6 @@ border-radius: 25px;
 .formulario-campo input,
 .formulario-campo select,
 .formulario-campo textarea{
-width: 300px;
+width: 200px;
 justify-self: flex-end;
 }
