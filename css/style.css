@@ -60,6 +60,7 @@ border-radius: 25px;
  justify-content: space-between;
  margin-bottom: 8px;
  align-items: center;
+ text-align: center;
 }
 .formulario-campo label{
   font-family: Georgia, 'Times New Roman', Times, serif;
