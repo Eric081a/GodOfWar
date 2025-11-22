@@ -55,8 +55,8 @@ border-radius: 25px;
 .formulario-campo{
     display: flex;
  flex: 1;
- gap: 16px;
- width: 70%;
+ gap: 8px;
+ width: 60%;
  justify-content: space-between;
  margin-bottom: 8px;
  align-items: center;
@@ -70,6 +70,6 @@ border-radius: 25px;
 .formulario-campo input,
 .formulario-campo select,
 .formulario-campo textarea{
-width: 200px;
+width: 300px;
 justify-self: flex-end;
 }
