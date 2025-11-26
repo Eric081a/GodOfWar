@@ -4,3 +4,16 @@ body{
 h1{
     color: white;
 }
+
+label{
+    color: white;
+ 
+}
+
+.ba{
+    margin: 0 auto;
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid black;
+    width: 1150px;
+}
